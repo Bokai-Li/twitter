@@ -1,0 +1,71 @@
+
+.container{
+width: 500px;
+}
+.textarea{
+background-color: #17202a;
+color:white;
+}
+.far.fa-heart {
+color: #8b99a5;
+}
+.fa.fa-heart {
+color: #cf3a60;
+}
+.fa-edit {
+color: #8b99a5;
+}
+.fa-trash {
+color: #8b99a5;
+}
+.fa-check-square{
+color: #8b99a5;
+}
+.fa-comment {
+color: #8b99a5;
+}
+.fa-retweet {
+color: #8b99a5;
+}
+body{
+background-color: #17202a;
+}
+.hero.is-info{
+background-color: #17202a;
+}
+button{
+background-color: Transparent;
+border: none;
+}
+
+.card{
+background-color: #17202a;
+color:white;
+box-shadow: 0 0.5em 1em -0.125em rgba(245, 245, 245, 0.5), 0 0px 0 1px rgba(255, 255, 255, 0.05);
+}
+.card p{
+color:white;
+}
+.card span{
+color:#8b99a5;
+}
+
+.textarea::-webkit-input-placeholder {
+color: #8b99a5;
+}
+
+.textarea:-moz-placeholder { /* Firefox 18- */
+color: #8b99a5;  
+}
+
+.textarea::-moz-placeholder {  /* Firefox 19+ */
+color: #8b99a5;  
+}
+
+.textarea:-ms-input-placeholder {
+color: #8b99a5;  
+}
+
+.textarea::placeholder {
+color: #8b99a5;  
+}
